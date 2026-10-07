@@ -1,0 +1,1 @@
+NetWatch database will store device and monitoring information.

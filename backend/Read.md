@@ -1,0 +1,1 @@
+NetWatch backend will handle application logic and API services.

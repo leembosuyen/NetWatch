@@ -1,0 +1,1 @@
+NetWatch frontend will contain the web dashboard interface.
